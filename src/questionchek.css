@@ -1,0 +1,14 @@
+.centerDiv{
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    cursor: pointer;
+}
+.unchek{
+    filter: grayscale(1);
+}
+.chek{
+    filter: grayscale(0);
+}
